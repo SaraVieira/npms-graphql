@@ -1,0 +1,1294 @@
+{
+    "total": 34,
+    "results": [
+        {
+            "package": {
+                "name": "cross-spawn",
+                "scope": "unscoped",
+                "version": "6.0.5",
+                "description": "Cross platform child_process#spawn and child_process#spawnSync",
+                "keywords": [
+                    "spawn",
+                    "spawnSync",
+                    "windows",
+                    "cross-platform",
+                    "path-ext",
+                    "shebang",
+                    "cmd",
+                    "execute"
+                ],
+                "date": "2018-03-02T23:15:27.209Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/cross-spawn",
+                    "homepage": "https://github.com/moxystudio/node-cross-spawn",
+                    "repository": "https://github.com/moxystudio/node-cross-spawn",
+                    "bugs": "https://github.com/moxystudio/node-cross-spawn/issues"
+                },
+                "author": {
+                    "name": "André Cruz",
+                    "email": "andre@moxy.studio"
+                },
+                "publisher": {
+                    "username": "satazor",
+                    "email": "andremiguelcruz@msn.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "satazor",
+                        "email": "andremiguelcruz@msn.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.9013024747352223,
+                "detail": {
+                    "quality": 0.9990719054119244,
+                    "popularity": 0.7189096596325639,
+                    "maintenance": 0.9998929206864218
+                }
+            },
+            "searchScore": 1.7104964
+        },
+        {
+            "package": {
+                "name": "cross-spawn-async",
+                "scope": "unscoped",
+                "version": "2.2.5",
+                "description": "Cross platform child_process#spawn",
+                "keywords": [
+                    "spawn",
+                    "windows",
+                    "cross",
+                    "platform",
+                    "path",
+                    "ext",
+                    "path-ext",
+                    "path_ext",
+                    "shebang",
+                    "hashbang",
+                    "cmd",
+                    "execute"
+                ],
+                "date": "2016-10-27T18:43:35.328Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/cross-spawn-async",
+                    "homepage": "https://github.com/IndigoUnited/node-cross-spawn-async#readme",
+                    "repository": "https://github.com/IndigoUnited/node-cross-spawn-async",
+                    "bugs": "https://github.com/IndigoUnited/node-cross-spawn-async/issues/"
+                },
+                "author": {
+                    "name": "IndigoUnited",
+                    "email": "hello@indigounited.com",
+                    "url": "http://indigounited.com"
+                },
+                "publisher": {
+                    "username": "satazor",
+                    "email": "andremiguelcruz@msn.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "satazor",
+                        "email": "andremiguelcruz@msn.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7456935990539009,
+                "detail": {
+                    "quality": 0.9679682497300466,
+                    "popularity": 0.30106447458368113,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.027290907
+        },
+        {
+            "package": {
+                "name": "opn",
+                "scope": "unscoped",
+                "version": "5.3.0",
+                "description": "A better node-open. Opens stuff like websites, files, executables. Cross-platform.",
+                "keywords": [
+                    "app",
+                    "open",
+                    "opn",
+                    "opener",
+                    "opens",
+                    "launch",
+                    "start",
+                    "xdg-open",
+                    "xdg",
+                    "default",
+                    "cmd",
+                    "browser",
+                    "editor",
+                    "executable",
+                    "exe",
+                    "url",
+                    "urls",
+                    "arguments",
+                    "args",
+                    "spawn",
+                    "exec",
+                    "child",
+                    "process",
+                    "website",
+                    "file"
+                ],
+                "date": "2018-03-14T15:56:57.782Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/opn",
+                    "homepage": "https://github.com/sindresorhus/opn#readme",
+                    "repository": "https://github.com/sindresorhus/opn",
+                    "bugs": "https://github.com/sindresorhus/opn/issues"
+                },
+                "author": {
+                    "name": "Sindre Sorhus",
+                    "email": "sindresorhus@gmail.com",
+                    "url": "sindresorhus.com",
+                    "username": "sindresorhus"
+                },
+                "publisher": {
+                    "username": "sindresorhus",
+                    "email": "sindresorhus@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "sindresorhus",
+                        "email": "sindresorhus@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.7824381776621588,
+                "detail": {
+                    "quality": 0.8304479775303097,
+                    "popularity": 0.6946262840697953,
+                    "maintenance": 0.8290988142246788
+                }
+            },
+            "searchScore": 0.007390002
+        },
+        {
+            "package": {
+                "name": "cross-spawn-with-kill",
+                "scope": "unscoped",
+                "version": "1.0.0",
+                "description": "Adds cross-platform `kill` function to cross-spawn processes",
+                "date": "2016-09-02T23:49:17.140Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/cross-spawn-with-kill",
+                    "homepage": "https://github.com/kentcdodds/cross-spawn-with-kill#readme",
+                    "repository": "https://github.com/kentcdodds/cross-spawn-with-kill",
+                    "bugs": "https://github.com/kentcdodds/cross-spawn-with-kill/issues"
+                },
+                "author": {
+                    "name": "Kent C. Dodds",
+                    "email": "kent@doddsfamily.us",
+                    "url": "http://kentcdodds.com/",
+                    "username": "kentcdodds"
+                },
+                "publisher": {
+                    "username": "kentcdodds",
+                    "email": "kent@doddsfamily.us"
+                },
+                "maintainers": [
+                    {
+                        "username": "kentcdodds",
+                        "email": "kent@doddsfamily.us"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6731317891189219,
+                "detail": {
+                    "quality": 0.9922876434183013,
+                    "popularity": 0.07289982303666567,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.002560833
+        },
+        {
+            "package": {
+                "name": "@tilastokeskus/cross-spawn",
+                "scope": "tilastokeskus",
+                "version": "5.0.1",
+                "description": "Cross platform child_process#spawn and child_process#spawnSync",
+                "keywords": [
+                    "spawn",
+                    "spawnSync",
+                    "windows",
+                    "cross",
+                    "platform",
+                    "path",
+                    "ext",
+                    "path-ext",
+                    "path_ext",
+                    "shebang",
+                    "hashbang",
+                    "cmd",
+                    "execute"
+                ],
+                "date": "2017-02-07T07:08:24.079Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40tilastokeskus%2Fcross-spawn",
+                    "homepage": "https://github.com/IndigoUnited/node-cross-spawn#readme",
+                    "repository": "https://github.com/IndigoUnited/node-cross-spawn",
+                    "bugs": "https://github.com/IndigoUnited/node-cross-spawn/issues/"
+                },
+                "author": {
+                    "name": "IndigoUnited",
+                    "email": "hello@indigounited.com",
+                    "url": "http://indigounited.com"
+                },
+                "publisher": {
+                    "username": "tilastokeskus",
+                    "email": "tilastokeskus@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "tilastokeskus",
+                        "email": "tilastokeskus@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6667723986193959,
+                "detail": {
+                    "quality": 0.9400038609667569,
+                    "popularity": 0.09949656033063348,
+                    "maintenance": 0.9998498406104203
+                }
+            },
+            "searchScore": 0.0024565298
+        },
+        {
+            "package": {
+                "name": "@cspotcode/cross-spawn",
+                "scope": "cspotcode",
+                "version": "5.1.1-fork",
+                "description": "Cross platform child_process#spawn and child_process#spawnSync",
+                "keywords": [
+                    "spawn",
+                    "spawnSync",
+                    "windows",
+                    "cross",
+                    "platform",
+                    "path",
+                    "ext",
+                    "path-ext",
+                    "path_ext",
+                    "shebang",
+                    "hashbang",
+                    "cmd",
+                    "execute"
+                ],
+                "date": "2017-10-19T20:08:00.323Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40cspotcode%2Fcross-spawn",
+                    "homepage": "https://github.com/cspotcode/node-cross-spawn#readme",
+                    "repository": "https://github.com/cspotcode/node-cross-spawn",
+                    "bugs": "https://github.com/cspotcode/node-cross-spawn/issues/"
+                },
+                "author": {
+                    "name": "IndigoUnited",
+                    "email": "hello@indigounited.com",
+                    "url": "http://indigounited.com"
+                },
+                "publisher": {
+                    "username": "cspotcode",
+                    "email": "cspotcode@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "cspotcode",
+                        "email": "cspotcode@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6437959279639511,
+                "detail": {
+                    "quality": 0.9400038609667569,
+                    "popularity": 0.033897747552358734,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.0010958051
+        },
+        {
+            "package": {
+                "name": "spawndamnit",
+                "scope": "unscoped",
+                "version": "2.0.0",
+                "description": "Take care ofyour `spawn()`",
+                "keywords": [
+                    "spawn",
+                    "child",
+                    "process",
+                    "promise",
+                    "async",
+                    "cross-spawn"
+                ],
+                "date": "2018-04-11T21:54:16.714Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/spawndamnit",
+                    "homepage": "https://github.com/thejameskyle/spawndamnit#readme",
+                    "repository": "https://github.com/thejameskyle/spawndamnit",
+                    "bugs": "https://github.com/thejameskyle/spawndamnit/issues"
+                },
+                "author": {
+                    "name": "James Kyle",
+                    "email": "me@thejameskyle.com",
+                    "username": "thejameskyle"
+                },
+                "publisher": {
+                    "username": "thejameskyle",
+                    "email": "me@thejameskyle.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "thejameskyle",
+                        "email": "me@thejameskyle.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6543035012082921,
+                "detail": {
+                    "quality": 0.8183127781419348,
+                    "popularity": 0.16822602781460863,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.0008369068
+        },
+        {
+            "package": {
+                "name": "spawn-command-with-kill",
+                "scope": "unscoped",
+                "version": "1.0.0",
+                "description": "Adds cross-platform `kill` function to spawn-command processes",
+                "date": "2016-09-03T06:55:25.392Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/spawn-command-with-kill",
+                    "homepage": "https://github.com/kentcdodds/spawn-command-with-kill#readme",
+                    "repository": "https://github.com/kentcdodds/spawn-command-with-kill",
+                    "bugs": "https://github.com/kentcdodds/spawn-command-with-kill/issues"
+                },
+                "author": {
+                    "name": "Kent C. Dodds",
+                    "email": "kent@doddsfamily.us",
+                    "url": "http://kentcdodds.com/",
+                    "username": "kentcdodds"
+                },
+                "publisher": {
+                    "username": "kentcdodds",
+                    "email": "kent@doddsfamily.us"
+                },
+                "maintainers": [
+                    {
+                        "username": "kentcdodds",
+                        "email": "kent@doddsfamily.us"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6885355026916384,
+                "detail": {
+                    "quality": 0.9911755626397194,
+                    "popularity": 0.1178636453403547,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.0006566857
+        },
+        {
+            "package": {
+                "name": "spawn-default-shell",
+                "scope": "unscoped",
+                "version": "2.0.0",
+                "description": "Spawn shell command with platform default shell",
+                "keywords": [
+                    "shell",
+                    "exec",
+                    "bash",
+                    "sh",
+                    "command",
+                    "cross-platform",
+                    "windows",
+                    "linux",
+                    "mac"
+                ],
+                "date": "2016-10-01T10:10:25.699Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/spawn-default-shell",
+                    "homepage": "https://github.com/kimmobrunfeldt/spawn-default-shell#readme",
+                    "repository": "https://github.com/kimmobrunfeldt/spawn-default-shell",
+                    "bugs": "https://github.com/kimmobrunfeldt/spawn-default-shell/issues"
+                },
+                "author": {
+                    "name": "Kimmo Brunfeldt"
+                },
+                "publisher": {
+                    "username": "kimmobrunfeldt",
+                    "email": "kimmo.brunfeldt@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "gustavohenke",
+                        "email": "guhenke@gmail.com"
+                    },
+                    {
+                        "username": "kimmobrunfeldt",
+                        "email": "kimmo.brunfeldt@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6778881124449985,
+                "detail": {
+                    "quality": 0.9381256608380375,
+                    "popularity": 0.13291387475139613,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.0006017248
+        },
+        {
+            "package": {
+                "name": "cross-npm-spawn",
+                "scope": "unscoped",
+                "version": "1.1.1",
+                "description": "Cross-platform NPM spawn",
+                "keywords": [
+                    "npm",
+                    "spawn",
+                    "spawn npm",
+                    "npm spawn",
+                    "npm programmatically",
+                    "cross platform"
+                ],
+                "date": "2016-06-17T14:09:05.399Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/cross-npm-spawn",
+                    "homepage": "https://github.com/leeroybrun/cross-npm-spawn#readme",
+                    "repository": "https://github.com/leeroybrun/cross-npm-spawn",
+                    "bugs": "https://github.com/leeroybrun/cross-npm-spawn/issues"
+                },
+                "author": {
+                    "name": "Leeroy Brun",
+                    "email": "leeroy.brun@gmail.com",
+                    "username": "leeroy"
+                },
+                "publisher": {
+                    "username": "leeroy",
+                    "email": "leeroy.brun@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "leeroy",
+                        "email": "leeroy.brun@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.604054709804673,
+                "detail": {
+                    "quality": 0.7638588408483209,
+                    "popularity": 0.07133285577022361,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.00044155362
+        },
+        {
+            "package": {
+                "name": "gitclone",
+                "scope": "unscoped",
+                "version": "2.0.0",
+                "description": "Powerful and flexible programmatic interface for the `git clone` command, using [gitclone-defaults][] and [cross-spawn][]",
+                "keywords": [
+                    "api",
+                    "clone",
+                    "cmd",
+                    "command",
+                    "flexible",
+                    "gh",
+                    "ghclone",
+                    "git",
+                    "gitc",
+                    "gitclone",
+                    "github",
+                    "github-clone",
+                    "interface",
+                    "powerful",
+                    "program",
+                    "programmatic",
+                    "ui",
+                    "util",
+                    "utils"
+                ],
+                "date": "2016-11-01T16:08:31.882Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/gitclone",
+                    "homepage": "https://github.com/tunnckocore/gitclone#readme",
+                    "repository": "https://github.com/tunnckocore/gitclone",
+                    "bugs": "https://github.com/tunnckocore/gitclone/issues"
+                },
+                "author": {
+                    "name": "Charlike Mike Reagent",
+                    "email": "@tunnckoCore",
+                    "url": "http://www.tunnckocore.tk"
+                },
+                "publisher": {
+                    "username": "tunnckocore",
+                    "email": "mameto_100@mail.bg"
+                },
+                "maintainers": [
+                    {
+                        "username": "olstenlarck",
+                        "email": "mameto_100@mail.bg"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6696878688216371,
+                "detail": {
+                    "quality": 0.9811522988434355,
+                    "popularity": 0.07255638558559822,
+                    "maintenance": 0.9998498406104203
+                }
+            },
+            "searchScore": 0.00025374835
+        },
+        {
+            "package": {
+                "name": "opn-cli",
+                "scope": "unscoped",
+                "version": "3.1.0",
+                "description": "A better node-open. Opens stuff like websites, files, executables. Cross-platform.",
+                "keywords": [
+                    "cli-app",
+                    "cli",
+                    "app",
+                    "open",
+                    "opn",
+                    "opener",
+                    "opens",
+                    "launch",
+                    "start",
+                    "xdg-open",
+                    "xdg",
+                    "default",
+                    "cmd",
+                    "browser",
+                    "editor",
+                    "executable",
+                    "exe",
+                    "url",
+                    "urls",
+                    "arguments",
+                    "args",
+                    "spawn",
+                    "exec",
+                    "child",
+                    "process",
+                    "website",
+                    "file"
+                ],
+                "date": "2016-02-10T11:30:32.098Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/opn-cli",
+                    "homepage": "https://github.com/sindresorhus/opn-cli#readme",
+                    "repository": "https://github.com/sindresorhus/opn-cli",
+                    "bugs": "https://github.com/sindresorhus/opn-cli/issues"
+                },
+                "author": {
+                    "name": "Sindre Sorhus",
+                    "email": "sindresorhus@gmail.com",
+                    "url": "sindresorhus.com",
+                    "username": "sindresorhus"
+                },
+                "publisher": {
+                    "username": "sindresorhus",
+                    "email": "sindresorhus@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "sindresorhus",
+                        "email": "sindresorhus@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6816188351337485,
+                "detail": {
+                    "quality": 0.8332432220284164,
+                    "popularity": 0.2333535925592241,
+                    "maintenance": 0.9999203175128435
+                }
+            },
+            "searchScore": 0.00019047197
+        },
+        {
+            "package": {
+                "name": "npm-execspawn",
+                "scope": "unscoped",
+                "version": "1.3.0",
+                "description": "Spawn locallyinstalled npm dependencies with cross platform env and argument parsing support",
+                "keywords": [
+                    "npm",
+                    "exec",
+                    "spawn",
+                    "run",
+                    "path"
+                ],
+                "date": "2016-03-17T03:44:09.751Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/npm-execspawn",
+                    "homepage": "https://github.com/mafintosh/npm-execspawn",
+                    "repository": "https://github.com/mafintosh/npm-execspawn",
+                    "bugs": "https://github.com/mafintosh/npm-execspawn/issues"
+                },
+                "author": {
+                    "name": "Mathias Buus"
+                },
+                "publisher": {
+                    "username": "mafintosh",
+                    "email": "mathiasbuus@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "karissa",
+                        "email": "krmckelv@gmail.com"
+                    },
+                    {
+                        "username": "mafintosh",
+                        "email": "mathiasbuus@gmail.com"
+                    },
+                    {
+                        "username": "maxogden",
+                        "email": "max@maxogden.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6616558943600196,
+                "detail": {
+                    "quality": 0.8678869843100697,
+                    "popularity": 0.14662196553572412,
+                    "maintenance": 0.9999203175128435
+                }
+            },
+            "searchScore": 0.0001893554
+        },
+        {
+            "package": {
+                "name": "gitclone-cli",
+                "scope": "unscoped",
+                "version": "1.0.1",
+                "description": "Simple command line interface for the `git clone` command, using [gitclone][] and [cross-spawn][]",
+                "keywords": [
+                    "api",
+                    "clone",
+                    "cmd",
+                    "command",
+                    "flexible",
+                    "gh",
+                    "ghclone",
+                    "git",
+                    "gitc",
+                    "gitclone",
+                    "github",
+                    "github-clone",
+                    "interface",
+                    "powerful",
+                    "program",
+                    "programmatic",
+                    "ui",
+                    "util",
+                    "utils"
+                ],
+                "date": "2016-11-05T00:03:38.389Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/gitclone-cli",
+                    "homepage": "https://github.com/tunnckocore/gitclone-cli#readme",
+                    "repository": "https://github.com/tunnckocore/gitclone-cli",
+                    "bugs": "https://github.com/tunnckocore/gitclone-cli/issues"
+                },
+                "author": {
+                    "name": "Charlike Mike Reagent",
+                    "email": "@tunnckoCore",
+                    "url": "http://www.tunnckocore.tk"
+                },
+                "publisher": {
+                    "username": "tunnckocore",
+                    "email": "mameto_100@mail.bg"
+                },
+                "maintainers": [
+                    {
+                        "username": "olstenlarck",
+                        "email": "mameto_100@mail.bg"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6519367976690866,
+                "detail": {
+                    "quality": 0.968401923596759,
+                    "popularity": 0.0327640932332361,
+                    "maintenance": 0.9998536798812183
+                }
+            },
+            "searchScore": 0.00016369481
+        },
+        {
+            "package": {
+                "name": "better-spawn",
+                "scope": "unscoped",
+                "version": "1.0.2",
+                "description": "a betterspawn",
+                "keywords": [
+                    "spawn",
+                    "cross plattform",
+                    "shell"
+                ],
+                "date": "2017-07-01T09:46:20.808Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/better-spawn",
+                    "homepage": "https://github.com/paulpflug",
+                    "repository": "https://github.com/paulpflug/better-spawn",
+                    "bugs": "https://github.com/paulpflug/better-spawn/issues"
+                },
+                "author": {
+                    "name": "Paul Pflugradt",
+                    "email": "paul.pflugradt@gmail.com"
+                },
+                "publisher": {
+                    "username": "paulpflug",
+                    "email": "paulpflugradt@googlemail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "paulpflug",
+                        "email": "paulpflugradt@googlemail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6173268748895736,
+                "detail": {
+                    "quality": 0.8135049942086112,
+                    "popularity": 0.06658075856427156,
+                    "maintenance": 0.9999203175128435
+                }
+            },
+            "searchScore": 0.00014360381
+        },
+        {
+            "package": {
+                "name": "chrome-launch",
+                "scope": "unscoped",
+                "version": "1.1.4",
+                "description": "Light cross-platform launcher for Google Chrome",
+                "keywords": [
+                    "chrome",
+                    "launch",
+                    "process",
+                    "spawn",
+                    "browser",
+                    "client"
+                ],
+                "date": "2015-08-27T05:26:07.375Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/chrome-launch",
+                    "homepage": "https://github.com/hughsk/chrome-launch",
+                    "repository": "https://github.com/hughsk/chrome-launch",
+                    "bugs": "https://github.com/hughsk/chrome-launch/issues"
+                },
+                "author": {
+                    "name": "Hugh Kennedy",
+                    "email": "hughskennedy@gmail.com",
+                    "url": "http://hughsk.io/",
+                    "username": "hughsk"
+                },
+                "publisher": {
+                    "username": "hughsk",
+                    "email": "hughskennedy@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "hughsk",
+                        "email": "hughskennedy@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6580167147581124,
+                "detail": {
+                    "quality": 0.9057926376269138,
+                    "popularity": 0.10385247268411352,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.00014156547
+        },
+        {
+            "package": {
+                "name": "firefox-launch",
+                "scope": "unscoped",
+                "version": "1.1.0",
+                "description": "Light cross-platform launcher for Mozilla Firefox",
+                "keywords": [
+                    "firefox",
+                    "browser",
+                    "client",
+                    "launch",
+                    "process",
+                    "spawn"
+                ],
+                "date": "2017-08-19T06:17:10.392Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/firefox-launch",
+                    "homepage": "https://github.com/hughsk/firefox-launch",
+                    "repository": "https://github.com/hughsk/firefox-launch",
+                    "bugs": "https://github.com/hughsk/firefox-launch/issues"
+                },
+                "author": {
+                    "name": "Hugh Kennedy",
+                    "email": "hughskennedy@gmail.com",
+                    "url": "http://hughsk.io/",
+                    "username": "hughsk"
+                },
+                "publisher": {
+                    "username": "hughsk",
+                    "email": "hughskennedy@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "hughsk",
+                        "email": "hughskennedy@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6523577854038509,
+                "detail": {
+                    "quality": 0.9057926376269138,
+                    "popularity": 0.08756537996080448,
+                    "maintenance": 0.9999203175128435
+                }
+            },
+            "searchScore": 0.00011615023
+        },
+        {
+            "package": {
+                "name": "exec-extra",
+                "scope": "unscoped",
+                "version": "2.3.2",
+                "description": "A better child_process",
+                "keywords": [
+                    "bin",
+                    "binaries",
+                    "binary",
+                    "cross",
+                    "exec",
+                    "execFile",
+                    "npm-run",
+                    "platform",
+                    "runas",
+                    "sh",
+                    "shebang",
+                    "spawn",
+                    "where",
+                    "which"
+                ],
+                "date": "2018-03-12T07:23:51.657Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/exec-extra",
+                    "homepage": "https://github.com/gucong3000/exec-extra#readme",
+                    "repository": "https://github.com/gucong3000/exec-extra",
+                    "bugs": "https://github.com/gucong3000/exec-extra/issues"
+                },
+                "author": {
+                    "name": "gucong"
+                },
+                "publisher": {
+                    "username": "gucong",
+                    "email": "gucong@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "gucong",
+                        "email": "gucong@gmail.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6610943866306671,
+                "detail": {
+                    "quality": 0.9894437088900625,
+                    "popularity": 0.04076266357760263,
+                    "maintenance": 0.9999838334613926
+                }
+            },
+            "searchScore": 0.00009892009
+        },
+        {
+            "package": {
+                "name": "exec-cmd",
+                "scope": "unscoped",
+                "version": "2.0.1",
+                "description": "Flexible and cross-platform executing commands. Hybrid, Async and Promise API.",
+                "keywords": [
+                    "api",
+                    "apis",
+                    "aplus",
+                    "async",
+                    "bluebird",
+                    "callback",
+                    "callbacks",
+                    "cb",
+                    "cmd",
+                    "cmds",
+                    "command",
+                    "commands",
+                    "cross",
+                    "cross-platform",
+                    "easy",
+                    "exec",
+                    "execute",
+                    "fast",
+                    "hybrid",
+                    "hybridify",
+                    "hybridify-api",
+                    "hybridify-apis",
+                    "native",
+                    "platform",
+                    "promise",
+                    "promises",
+                    "promises-aplus",
+                    "simple",
+                    "spawn"
+                ],
+                "date": "2015-05-17T14:28:37.510Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/exec-cmd",
+                    "homepage": "https://github.com/hybridables/exec-cmd#readme",
+                    "repository": "https://github.com/hybridables/exec-cmd",
+                    "bugs": "https://github.com/hybridables/exec-cmd/issues"
+                },
+                "author": {
+                    "name": "Charlike Mike Reagent",
+                    "email": "mameto_100@mail.bg",
+                    "url": "https://github.com/tunnckoCore",
+                    "username": "olstenlarck"
+                },
+                "publisher": {
+                    "username": "tunnckocore",
+                    "email": "mameto_100@mail.bg"
+                },
+                "maintainers": [
+                    {
+                        "username": "olstenlarck",
+                        "email": "mameto_100@mail.bg"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6668245417026009,
+                "detail": {
+                    "quality": 0.9822315561451097,
+                    "popularity": 0.06337989637020777,
+                    "maintenance": 0.9999203175128435
+                }
+            },
+            "searchScore": 0.00007738669
+        },
+        {
+            "package": {
+                "name": "async-exec-cmd",
+                "scope": "unscoped",
+                "version": "2.0.2",
+                "description": "Simple, fast, flexible and cross-platform async executing commands (with node-cross-spawn).",
+                "keywords": [
+                    "api",
+                    "apis",
+                    "async",
+                    "callback",
+                    "callbacks",
+                    "cb",
+                    "cmd",
+                    "cmds",
+                    "command",
+                    "commands",
+                    "cross",
+                    "cross-platform",
+                    "easy",
+                    "exec",
+                    "execute",
+                    "fast",
+                    "native",
+                    "platform",
+                    "simple",
+                    "spawn"
+                ],
+                "date": "2015-05-17T13:28:46.347Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/async-exec-cmd",
+                    "homepage": "https://github.com/tunnckoCore/async-exec-cmd#readme",
+                    "repository": "https://github.com/tunnckoCore/async-exec-cmd",
+                    "bugs": "https://github.com/tunnckoCore/async-exec-cmd/issues"
+                },
+                "author": {
+                    "name": "Charlike Mike Reagent",
+                    "email": "mameto_100@mail.bg",
+                    "url": "https://github.com/tunnckoCore",
+                    "username": "olstenlarck"
+                },
+                "publisher": {
+                    "username": "tunnckocore",
+                    "email": "mameto_100@mail.bg"
+                },
+                "maintainers": [
+                    {
+                        "username": "olstenlarck",
+                        "email": "mameto_100@mail.bg"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6429088965694545,
+                "detail": {
+                    "quality": 0.9152478455591433,
+                    "popularity": 0.05246409077776078,
+                    "maintenance": 0.9999203175128435
+                }
+            },
+            "searchScore": 0.000050434643
+        },
+        {
+            "package": {
+                "name": "exec-back",
+                "scope": "unscoped",
+                "version": "1.0.0",
+                "description": "execute commands and receive the output via callback",
+                "keywords": [
+                    "exec",
+                    "spawn",
+                    "cross-platform",
+                    "callback",
+                    "safe"
+                ],
+                "date": "2016-05-14T05:28:10.298Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/exec-back",
+                    "homepage": "https://github.com/michaelrhodes/exec-back",
+                    "repository": "https://github.com/michaelrhodes/exec-back",
+                    "bugs": "https://github.com/michaelrhodes/exec-back/issues"
+                },
+                "author": {
+                    "name": "Michael Rhodes"
+                },
+                "publisher": {
+                    "username": "michaelrhodes",
+                    "email": "spam@michaelrhod.es"
+                },
+                "maintainers": [
+                    {
+                        "username": "michaelrhodes",
+                        "email": "spam@michaelrhod.es"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.6164470877977082,
+                "detail": {
+                    "quality": 0.8678869843100697,
+                    "popularity": 0.01757266992596768,
+                    "maintenance": 0.9998015943731388
+                }
+            },
+            "searchScore": 0.000045143122
+        },
+        {
+            "package": {
+                "name": "cross-spawn-promise",
+                "scope": "unscoped",
+                "version": "0.10.1",
+                "description": "Promisified cross-spawn.",
+                "date": "2017-03-29T07:41:35.312Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/cross-spawn-promise",
+                    "homepage": "https://github.com/zentrick/cross-spawn-promise#readme",
+                    "repository": "https://github.com/zentrick/cross-spawn-promise",
+                    "bugs": "https://github.com/zentrick/cross-spawn-promise/issues"
+                },
+                "author": {
+                    "name": "Zentrick nv",
+                    "url": "https://www.zentrick.com/"
+                },
+                "publisher": {
+                    "username": "timdp",
+                    "email": "hi@tmdpw.eu"
+                },
+                "maintainers": [
+                    {
+                        "username": "delbeke",
+                        "email": "pieter.delbeke@zentrick.com"
+                    },
+                    {
+                        "username": "timdp",
+                        "email": "hi@tmdpw.eu"
+                    }
+                ]
+            },
+            "flags": {
+                "unstable": true
+            },
+            "score": {
+                "final": 0.42996855566128456,
+                "detail": {
+                    "quality": 0.8068915252462111,
+                    "popularity": 0.18925592646154532,
+                    "maintenance": 0.3476043537882296
+                }
+            },
+            "searchScore": 0.00000756278
+        },
+        {
+            "package": {
+                "name": "superchild",
+                "scope": "unscoped",
+                "version": "0.1.10",
+                "description": "A smarter replacement for node.js's child_process module.",
+                "keywords": [
+                    "child_process",
+                    "spawn",
+                    "wrapper",
+                    "process",
+                    "fork",
+                    "exec",
+                    "execFile",
+                    "ipc",
+                    "cross-language",
+                    "ld-json",
+                    "json"
+                ],
+                "date": "2016-09-27T16:02:15.886Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/superchild",
+                    "homepage": "https://github.com/mayanklahiri/node-superchild#readme",
+                    "repository": "https://github.com/mayanklahiri/node-superchild",
+                    "bugs": "https://github.com/mayanklahiri/node-superchild/issues"
+                },
+                "author": {
+                    "name": "Mayank Lahiri",
+                    "email": "mayank@iceroad.io"
+                },
+                "publisher": {
+                    "username": "iceroad",
+                    "email": "contact@iceroad.io"
+                },
+                "maintainers": [
+                    {
+                        "username": "iceroad",
+                        "email": "contact@iceroad.io"
+                    }
+                ]
+            },
+            "flags": {
+                "unstable": true
+            },
+            "score": {
+                "final": 0.4887503996491545,
+                "detail": {
+                    "quality": 0.8529211360519166,
+                    "popularity": 0.11243715856313814,
+                    "maintenance": 0.5529172952470891
+                }
+            },
+            "searchScore": 0.0000016835958
+        },
+        {
+            "package": {
+                "name": "@geek/spawn",
+                "scope": "geek",
+                "version": "0.0.1-beta.6",
+                "description": "a cross-platform spawn replacement with promises",
+                "date": "2016-09-04T21:51:20.974Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40geek%2Fspawn",
+                    "homepage": "https://github.com/mobilehero/geek-spawn#readme",
+                    "repository": "https://github.com/mobilehero/geek-spawn",
+                    "bugs": "https://github.com/mobilehero/geek-spawn/issues"
+                },
+                "author": {
+                    "name": "Brenton House",
+                    "email": "brenton.house@gmail.com",
+                    "url": "https://github.com/brentonhouse",
+                    "username": "brentonhouse"
+                },
+                "publisher": {
+                    "username": "brentonhouse",
+                    "email": "brenton.house@gmail.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "geek-dev",
+                        "email": "geek@mobilehero.me"
+                    },
+                    {
+                        "username": "brentonhouse",
+                        "email": "brenton.house@gmail.com"
+                    }
+                ]
+            },
+            "flags": {
+                "unstable": true
+            },
+            "score": {
+                "final": 0.38441711096039727,
+                "detail": {
+                    "quality": 0.37346752707560416,
+                    "popularity": 0.05415694199212734,
+                    "maintenance": 0.7240626375442042
+                }
+            },
+            "searchScore": 1.6633072e-7
+        },
+        {
+            "package": {
+                "name": "@types/cross-spawn",
+                "scope": "types",
+                "version": "6.0.0",
+                "description": "TypeScript definitions for cross-spawn",
+                "date": "2018-01-27T19:42:42.966Z",
+                "links": {
+                    "npm": "https://www.npmjs.com/package/%40types%2Fcross-spawn"
+                },
+                "publisher": {
+                    "username": "types",
+                    "email": "ts-npm-types@microsoft.com"
+                },
+                "maintainers": [
+                    {
+                        "username": "types",
+                        "email": "ts-npm-types@microsoft.com"
+                    }
+                ]
+            },
+            "score": {
+                "final": 0.2753064689807828,
+                "detail": {
+                    "quality": 0.34258946343286834,
+                    "popularity": 0.1742417652829094,
+                    "maintenance": 0.3187000345768687
+                }
+            },
+            "searchScore": 1.2037245e-8
+        }
+    ]
+}

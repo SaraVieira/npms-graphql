@@ -1,15 +1,11 @@
 const { GraphQLServer } = require('graphql-yoga')
-
-const typeDefs = `
-  type Query {
-    hello(name: String): String
-  }
-`
+const typeDefs = require('./types')
+const { getSearch } = require('./api.js')
 
 const resolvers = {
   Query: {
-    hello: (_, args) => `Hello ${args.name || 'World'}!`,
-  },
+    search: (_, { search }) => getSearch(search).then(data => data)
+  }
 }
 
 const server = new GraphQLServer({ typeDefs, resolvers })
