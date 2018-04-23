@@ -1,0 +1,12 @@
+{
+  "name": "graphql-boilerplate",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Manjula Dube",
+  "dependencies": {
+    "graphql-yoga": "1.9.1"
+  }
+}
